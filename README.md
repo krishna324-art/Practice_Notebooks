@@ -1,4 +1,4 @@
-# Practice Notebooks — Brief overview
+# Practice Notebooks  Brief overview
 
 This repository contains a set of Jupyter notebooks that document short practice exercises and examples I worked through while learning core data-science and Python tools. Below is a concise summary of each notebook and how to run them.
 
